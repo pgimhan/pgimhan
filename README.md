@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Travel Guard**
 
-- 🌱 I’m currently learning **Spring Boot, React**
+- 🌱 I’m currently learning **Playwright**
 
-- 💬 Ask me about **Java, JavaScript**
+- 💬 Ask me about **JavaScript, Playwright**
 
 - 📫 How to reach me **pravindugimhan@gmail.com**
 
