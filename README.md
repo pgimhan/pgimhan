@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravindugimhan&label=Profile%20views&color=0e75b6&style=flat" alt="pravindugimhan" /> </p>
 
-- 🔭 I’m currently working on **Travel Guard**
+- 🔭 I’m currently working on **pw-practice-app automation**
 
 - 🌱 I’m currently learning **Playwright**
 
