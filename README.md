@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Playwright**
 
-- 💬 Ask me about **JavaScript, Playwright**
+- 💬 Ask me about **JavaScript, Playwright, TypeScript**
 
 - 📫 How to reach me **pravindugimhan@gmail.com**
 
