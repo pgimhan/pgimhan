@@ -26,4 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pravindugimhan&show_icons=true&locale=en" alt="pravindugimhan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pravindugimhan&" alt="pravindugimhan" /></p>
