@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravindugimhan&label=Profile%20views&color=0e75b6&style=flat" alt="pravindugimhan" /> </p>
 
-- 🔭 I’m currently working on **pw-app**
-
 - 🌱 I’m currently learning **Playwright**
 
 - 💬 Ask me about **JavaScript, Playwright, TypeScript**
