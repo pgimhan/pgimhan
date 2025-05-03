@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **JavaScript, Playwright, TypeScript**
 
-- 📫 How to reach me **pravindugimhan@gmail.com**
-
 - ⚡ Fun fact **404 : Not Found**
 
 <h3 align="left">Connect with me:</h3>
