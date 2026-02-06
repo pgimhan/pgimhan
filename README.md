@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravindugimhan&label=Profile%20views&color=0e75b6&style=flat" alt="pravindugimhan" /> </p>
 
-- 🌱 I’m currently learning **Playwright**
+- 🌱 I’m currently learning **Google AI Studio**
 
-- 💬 Ask me about **JavaScript, Playwright, TypeScript**
+- 💬 Ask me about **JavaScript, Playwright, TypeScript, AI For Testing**
 
 - ⚡ Fun fact **404 : Not Found**
 
